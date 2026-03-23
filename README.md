@@ -2,7 +2,7 @@
 
 R code for the master's thesis:
 **"Fuzzy K-Means Clustering and Deep Neural Networks for Tactical Asset Allocation"**
-Lorenzo Berti — Università Cattolica del Sacro Cuore, 2025
+Lorenzo Berti — Università La Sapienza, Roma 2026
 
 ---
 
