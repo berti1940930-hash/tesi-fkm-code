@@ -1,7 +1,9 @@
 # tesi-fkm-code
 
 R code for the master's thesis:
-**"Fuzzy K-Means Clustering and Deep Neural Networks for Tactical Asset Allocation"**
+**"Fuzzy Clustering nell’Ambito di Modelli Ibridi
+Unsupervised e Supervised per la Equity
+Return Prediction"**
 Lorenzo Berti — Università La Sapienza, Roma 2026
 
 ---
